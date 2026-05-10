@@ -135,10 +135,11 @@
 
 # 🔝 Top Contributed Repositories
 
+<h2 align="center">🔝 Top Repositories</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jztechstudio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jztechstudio&repo=YOUR_REPO_NAME&theme=tokyonight"/>
 </p>
----
 
 # 👀 Profile Visitors
 
